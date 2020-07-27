@@ -1,38 +1,123 @@
-.App {
+@font-face {
+  font-family: 'titleFont';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Regatto Bold'), url('./fonts/Regatto.woff') format('woff');
+  }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-padding-top: 150px;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-family: "titleFont";
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: white;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+nav {
+  padding: 2rem;
+  background-color: white;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav ul li {
+  padding: 0.5rem 4rem;
+  font-family: "Avenir";
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li a:hover {
+  color: grey;
+}
+
+#nav-left {
+  padding-right: 5rem;
+}
+
+#nav-right {
+  padding-left: 5rem;
+}
+
+#footer-ctn {
+  background: linear-gradient(135deg,#535DBB, #2F5DB7);
+  font-family: 'Avenir';
+  font-size: 0.8rem;
   color: white;
+  padding: 0.8rem;
+  text-align: center;
 }
 
-.App-link {
-  color: #61dafb;
-}
+/*
+div {
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+}*/
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 850px) {
+  
+  * {
+    visibility: hidden;
+    height: auto;
+    background-color: black;
   }
-  to {
-    transform: rotate(360deg);
+
+  #mobile-div h2 {
+    position: fixed;
+    top: 500px;
+    left: 0;
+    visibility: visible;
+    color: white;
+    text-align: center;
+    animation: txt-float 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+
+  @keyframes txt-float {
+    0% {
+      transform: translateY(20px);  
+    }
+    50% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(20px);
+    }
+}
+
+}
+
+@media (min-width: 850px) {
+  #mobile-div {
+    display: none;
   }
 }
