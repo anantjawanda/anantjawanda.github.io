@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+#projects-section {
+    background-color: black;
+    color: white;
+    height: 950px;
+    font-family: 'avenir-heavy';
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+#each-project {
+    display: flex;
+    flex-direction: column;
+}
+
+#projects-section h1 {
+    text-align: start;
+    font-size: 4rem;
+    font-weight: 400;
+    margin-bottom: 0.7rem;
+}
+
+#title-underline {
+    width: 300px;
+    height: 5px;
+    background-color: white;
+    margin-bottom: 3rem;
+}
+
+#top-section {
+    display: flex;
+    margin-bottom: 1.5rem;
+}
+
+#top-section h2 {
+    margin-right: 2rem;
+}
+
+#lang-section {
+    display: flex;
+}
+
+#language-section{
+    background-color: white;
+    color: black;
+    padding: 0.5rem 1.3rem;
+    margin: 0 1rem;
+}
+
+#project-description {
+    width: 1100px;
+    margin-bottom: 1.3rem;
+}
+
+#project-description p {
+    font-family: "avenir";
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+#project-links {
+    margin-bottom: 3rem;
+    display: flex;
+    
+}
+
+#project-links div a {
+    background: linear-gradient(135deg,#535DBB, #2F5DB7);
+    text-decoration: none;
+}
+
+#project-links div {
+    transition: ease 0.4s;
+}
+
+#project-links div:hover {
+    transform: translateY(-8px);
+}
+
+#project-links div a:first-child {
+    margin-right: 2rem;
+}
+
+.horizontal_dotted_line{
+    border-bottom: 5px dotted white;
+    margin-bottom: 2rem;
+  } 
+
+
+/*
+div {
+     border-color: red;
+    border-width: 4px;
+    border-style: solid; 
+}*/

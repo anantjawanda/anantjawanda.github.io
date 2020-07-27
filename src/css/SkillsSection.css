@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+#skills-section {
+    background-color: white;
+    height: 850px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'avenir-heavy';
+}
+
+#left-section h1 {
+    font-size: 8rem;
+    transform: rotate(-90deg);
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+}
+
+#left-section a {
+    text-decoration: none;
+    text-align: center;
+    padding: 0.7rem;
+    margin: 0 6rem;
+    background: linear-gradient(135deg,#535DBB, #2F5DB7);
+    color: white;
+    font-family: 'avenir';
+    font-weight: 600;
+    font-size: 1rem;
+    border: none;
+    transition: ease 0.4s;
+}
+
+#left-section a:hover {
+    transform: translateY(-8px);
+}
+
+#left-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+#middle-section, #right-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#middle-section .title-box, #right-section .title-box {
+    background-color: black;
+    color: white;
+    font-family: 'titleFont';
+    font-size: 1.2rem;
+    padding: 0.4rem 2rem;
+    text-align: center;
+
+}
+.line-list {
+    display: flex;
+    align-content: center;
+}
+
+section ul {
+    list-style-type: none;
+    padding-left: 2rem;
+    margin-top: 4rem;
+}
+
+section ul li {
+    padding: 1.1rem 0;
+}
+
+
+
+#dev-line {
+    margin: 2rem 0rem 2rem 2rem;
+    width: 5px;
+    height: 660px;
+    background-color: black;
+}
+
+#tools-line {
+    margin: 2rem 0rem 2rem 2rem;
+    width: 5px;
+    height: 330px;
+    background-color: black;
+}
+
+#tech-line {
+    margin: 2rem 0rem 2rem 2rem;
+    width: 5px;
+    height: 220px;
+    background-color: black;
+}
+
+section {
+    margin: 0rem 5rem;
+    /* border-color: red;
+    border-width: 4px;
+    border-style: solid; */
+}
