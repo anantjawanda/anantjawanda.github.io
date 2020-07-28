@@ -41,8 +41,8 @@
     transition: ease 0.4s;
 }
 
-#cta div:hover {
-    transform: translateY(-8px);
+#cta div:hover { 
+    transform: scale(1.8);
 }
 
 #cta div a {

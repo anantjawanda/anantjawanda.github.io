@@ -28,11 +28,11 @@ function ProjectTwo(props) {
             </div>
 
             <div id="project-links">
-                <div id="project-github-link">
-                    <a href="https://github.com/anantjawanda/Population-Index" target="_blank"><img src={ require('../images/view-project-btn.svg') } /></a>
-                </div>
                 <div id="project-site-link">
                     <a href="https://anantjawanda.github.io/Population-Index/" target="_blank"><img src={ require('../images/viewsite-btn.svg') } /></a>
+                </div>
+                <div id="project-github-link">
+                    <a href="https://github.com/anantjawanda/Population-Index" target="_blank"><img src={ require('../images/view-project-btn.svg') } /></a>
                 </div>
                 
             </div>
