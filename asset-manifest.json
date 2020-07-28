@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/anantjawanda.github.io/static/css/main.b9b3ac20.chunk.css",
+    "main.js": "/anantjawanda.github.io/static/js/main.a22db5b7.chunk.js",
+    "main.js.map": "/anantjawanda.github.io/static/js/main.a22db5b7.chunk.js.map",
+    "runtime-main.js": "/anantjawanda.github.io/static/js/runtime-main.ba0610d8.js",
+    "runtime-main.js.map": "/anantjawanda.github.io/static/js/runtime-main.ba0610d8.js.map",
+    "static/js/2.49c0e482.chunk.js": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js",
+    "static/js/2.49c0e482.chunk.js.map": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js.map",
+    "index.html": "/anantjawanda.github.io/index.html",
+    "precache-manifest.f813fd15d563a6d0f6b1db2417d847b1.js": "/anantjawanda.github.io/precache-manifest.f813fd15d563a6d0f6b1db2417d847b1.js",
+    "service-worker.js": "/anantjawanda.github.io/service-worker.js",
+    "static/css/main.b9b3ac20.chunk.css.map": "/anantjawanda.github.io/static/css/main.b9b3ac20.chunk.css.map",
+    "static/js/2.49c0e482.chunk.js.LICENSE.txt": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js.LICENSE.txt",
+    "static/media/LandingSection.css": "/anantjawanda.github.io/static/media/Regatto.dac76b0b.woff",
+    "static/media/github-button.svg": "/anantjawanda.github.io/static/media/github-button.fb58f81b.svg",
+    "static/media/laptop.svg": "/anantjawanda.github.io/static/media/laptop.3ca53cc8.svg",
+    "static/media/linkedin-button.svg": "/anantjawanda.github.io/static/media/linkedin-button.6c0a07fb.svg",
+    "static/media/mail-btn.svg": "/anantjawanda.github.io/static/media/mail-btn.012a2b34.svg",
+    "static/media/shadow.svg": "/anantjawanda.github.io/static/media/shadow.e39cfde8.svg",
+    "static/media/view-project-btn.svg": "/anantjawanda.github.io/static/media/view-project-btn.290c037c.svg",
+    "static/media/viewsite-btn.svg": "/anantjawanda.github.io/static/media/viewsite-btn.f7c40dab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0610d8.js",
+    "static/js/2.49c0e482.chunk.js",
+    "static/css/main.b9b3ac20.chunk.css",
+    "static/js/main.a22db5b7.chunk.js"
+  ]
+}
