@@ -9,7 +9,7 @@ function LandingSection() {
                 <h2>Hi,<br/>I am Anant Jawanda</h2>
                 <p>A front-end <u>developer</u> studying Computer Science at <u>Ryerson University</u>, 
                     who has a passion for connecting <u>design</u> and development. I am currently
-                    looking for a internship for the Fall 2020 term.</p>
+                    looking for a internship for the Winter 2021 term.</p>
                     <div id='cta'>
                         <a id="connect-btn" href="#contact-section">Let's Connect!</a>
                         <div id="github-button-ctn">
