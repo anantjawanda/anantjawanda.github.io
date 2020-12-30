@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4088af12feeb157dd32282cce9ad557",
+    "revision": "e3b0e8c10d94bf50f851d882de51a723",
     "url": "/anantjawanda.github.io/index.html"
   },
   {
-    "revision": "7d4518d73744c1f3604f",
+    "revision": "654ef5319616f8a52cc3",
     "url": "/anantjawanda.github.io/static/css/main.b9b3ac20.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d4518d73744c1f3604f",
-    "url": "/anantjawanda.github.io/static/js/main.cda81366.chunk.js"
+    "revision": "654ef5319616f8a52cc3",
+    "url": "/anantjawanda.github.io/static/js/main.8e326771.chunk.js"
   },
   {
     "revision": "c776f06204fcfa93c152",
