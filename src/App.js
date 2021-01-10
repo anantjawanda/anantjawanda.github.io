@@ -16,6 +16,7 @@ function App() {
       <ProjectsSection/> 
       <ContactSection/>
       <Footer/>
+      <h3 id="construction">Site is currently undergoing responsiveness. <br/> Stay tuned!</h3>
     </div>
   );
 }

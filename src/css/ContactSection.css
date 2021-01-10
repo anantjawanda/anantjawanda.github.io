@@ -54,3 +54,9 @@
     text-align: center;
     margin-top: 1.5rem;
 }
+
+@media (max-width: 950px) {
+    #contact-section {
+      display: none;
+    }
+  }

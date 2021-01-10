@@ -8,7 +8,7 @@ function SkillsSection() {
 
             <section id="left-section">
                 <h1>Skills</h1>
-                <a href="https://drive.google.com/file/d/13y3u43FXboTpYytGEn3FEsPmE1orQQDv/view?usp=sharing" target="_blank">View Resume</a>
+                <a href="https://drive.google.com/file/d/1RhsIMAQIZdMuE-f8IBjaaJs7Y7DZ-6LQ/view?usp=sharing" target="_blank">View Resume</a>
             </section>
 
             <section id="middle-section">

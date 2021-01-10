@@ -5,7 +5,7 @@
 #projects-section {
     background-color: black;
     color: white;
-    height: 950px;
+    height: auto;
     font-family: 'avenir-heavy';
     padding: 10rem;
     display: flex;
@@ -91,6 +91,11 @@
     margin-bottom: 2rem;
   } 
 
+  @media (max-width: 950px) {
+    #projects-section {
+      display: none;
+    }
+  }
 
 /*
 div {

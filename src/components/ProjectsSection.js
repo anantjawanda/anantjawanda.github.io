@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import ProjectOne from "./ProjectOne";
 import ProjectTwo from "./ProjectTwo";
 import '../css/ProjectsSection.css';
+import ProjectThree from './ProjectThree';
 
 function ProjectsSection() {
     return (
@@ -13,6 +14,17 @@ function ProjectsSection() {
                     <h1>Projects</h1>
                     <div id="title-underline"></div>
                 </div>
+
+                <ProjectThree 
+                    projectName="Nocturnal Films"
+                        
+                        description="A multi-page responsive website I developed for a Toronto-based production house,
+                        which displays all of their up-to-date video work. The site includes usage of
+                        React hooks, React Router, scroll-triggered GSAP transitions and animations. Through the use of components,
+                        updating the website with new work is a quick and easy process, and automatically adjusts."
+                />
+
+                <div class="horizontal_dotted_line"></div>
 
                 <ProjectOne 
                     projectName="Personal Portfolio"
@@ -33,6 +45,7 @@ function ProjectsSection() {
                         the output is filtered to match the corresponding input alongside the city’s
                         population."
                     />      
+
             </div>
         </div>
     )

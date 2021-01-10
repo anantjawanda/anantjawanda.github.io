@@ -11,7 +11,7 @@ function ContactSection() {
 
                 <div id="contact-title">
                     <h2>Let's Connect!</h2>
-                    <p>I am currently looking for a Fall 2020 Internship opportunity, please feel free to get a hold of me through any of my social platforms below!</p>
+                    <p>I am currently looking for a Spring/Summer 2021 Internship opportunity, please feel free to get a hold of me through any of my social platforms below!</p>
                 </div>
 
                 <div id='cta'>

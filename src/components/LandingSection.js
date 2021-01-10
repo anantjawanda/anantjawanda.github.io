@@ -7,8 +7,8 @@ function LandingSection() {
         <main>
             <div id="main-left">
                 <h2>Hi,<br/>I am Anant Jawanda</h2>
-                <p>A front-end <u>developer</u> studying Computer Science at <u>Ryerson University</u>, 
-                    who has a passion for connecting <u>design</u> and development. I am currently
+                <p>An aspiring front-end <u>developer</u> studying Computer Science at <u>Ryerson University</u>, 
+                    who has a passion for connecting <u>design</u> & development. I am currently
                     looking for a internship for the Spring/Summer 2021 term.</p>
                     <div id='cta'>
                         <a id="connect-btn" href="#contact-section">Let's Connect!</a>
@@ -23,9 +23,6 @@ function LandingSection() {
             <div id="main-right">
                 <img id="laptop" src={ require('../images/laptop.svg') }/>
                 <img src={ require('../images/shadow.svg') }/>
-            </div>
-            <div id="mobile-div">
-                <h2>This website is not yet mobile responsive. Stay tuned!</h2>
             </div>
         </main>
         
