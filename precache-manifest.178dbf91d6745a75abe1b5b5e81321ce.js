@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3b0e8c10d94bf50f851d882de51a723",
+    "revision": "580f28ab1a6362d7ee2936cbb9eaa3c3",
     "url": "/anantjawanda.github.io/index.html"
   },
   {
-    "revision": "654ef5319616f8a52cc3",
-    "url": "/anantjawanda.github.io/static/css/main.b9b3ac20.chunk.css"
+    "revision": "563d6e3f1e877843e87a",
+    "url": "/anantjawanda.github.io/static/css/main.b69fd9cf.chunk.css"
   },
   {
-    "revision": "bd6058c19be2f5b0fb5a",
-    "url": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js"
+    "revision": "f5f762c9c0a5fbe02767",
+    "url": "/anantjawanda.github.io/static/js/2.f8530451.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/anantjawanda.github.io/static/js/2.49c0e482.chunk.js.LICENSE.txt"
+    "url": "/anantjawanda.github.io/static/js/2.f8530451.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "654ef5319616f8a52cc3",
-    "url": "/anantjawanda.github.io/static/js/main.8e326771.chunk.js"
+    "revision": "563d6e3f1e877843e87a",
+    "url": "/anantjawanda.github.io/static/js/main.9207ab5e.chunk.js"
   },
   {
     "revision": "c776f06204fcfa93c152",
