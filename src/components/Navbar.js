@@ -30,7 +30,6 @@ function Navbar() {
             <div id="navbar-name">
                 <a href="#"><h1>ANANT JAWANDA</h1></a>
                 <button id="nav-btn" onClick={() => setOpen(!open)}></button>
-                
             </div>
             {menu}
             <div id="nav-right">
